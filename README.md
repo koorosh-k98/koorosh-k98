@@ -13,4 +13,4 @@ A cat person who also likes dogs, Flutter developer and wrestler
 
 [![](https://visitcount.itsvg.in/api?id=koorosh-k98&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-[![](https://667043c23566a898f13c.appwrite.global/?username=koorosh)](https://visit-counter-8e3e7.web.app)
+[![](https://667043c23566a898f13c.appwrite.global/api?username=koorosh)](https://visit-counter-8e3e7.web.app)

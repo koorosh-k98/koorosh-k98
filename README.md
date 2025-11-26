@@ -1,4 +1,4 @@
-[![](https://counter.visitcounter.online/api?username=koorosh)](https://visitcounter.online)
+[![](https://counter.visit-counter.ir/api?username=koorosh)](https://visit-counter.ir)
 
 
 # 👦 About Me:
